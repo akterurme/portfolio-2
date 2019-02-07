@@ -1,0 +1,88 @@
+
+@media screen and (min-width:0px)and (max-width:991px){
+	
+	.navbar-nav {
+		border-top:1px solid #888;
+		background-color:#000 !important;
+	}
+}
+
+
+
+@media screen and (max-width:991px){
+	
+	.scroll-btn{
+		
+		bottom:10px;
+		padding:5px 7px 10px;
+	}
+	
+	.typewrite{
+		
+		font-size:20px;
+	}
+	
+	.user-box h1{
+		
+		font-size:40px;
+	}
+	
+	.contact-bordered{
+		
+		border:none;
+	}
+}
+
+@media screen and (max-width:768px){
+	
+	.element-item{
+		
+		width:50%;
+	}
+	
+	.carousel-item p{
+		
+		max-width:600px;
+		margin:0 auto;
+	}
+}
+
+@media screen and (max-width:767px){
+	
+	.about-Progressbar{
+		margin-top:30px;
+	}
+}
+
+@media screen and (max-width:575px){
+	
+	.scroll-btn{
+		
+		bottom:10px;
+		padding:5px 7px 10px;
+	}
+	
+	.typewrite{
+		
+		font-size:18px;
+	}
+	
+	.user-box h1{
+		
+		font-size:35px;
+	}
+	
+	.element-item{
+		
+		width:100%;
+	}
+	
+	.carousel-item p{
+		
+		max-width:500px;
+		margin:0 auto;
+		font-size:14px;
+		
+	}
+}
+
